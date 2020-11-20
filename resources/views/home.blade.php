@@ -29,7 +29,7 @@
                         <div class="feature-icon">
                             <img src="{{ asset('img/icons/2.png')}}" alt="#">
                         </div>
-                        <h2>PRODUCTOS PREMIUM</h2>
+                        <h2>PRODUCTOS ESCLUSIVOS</h2>
                     </div>
                 </div>
                 <div class="col-md-4 p-0 feature">

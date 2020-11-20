@@ -1,0 +1,32 @@
+echo "# hotkasdkssecretsad.com" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/masterdeveloped/hotkasdkssecretsad.com.git
+git push -u origin main
+
+
+
+git remote add origin https://github.com/masterdeveloped/hotkasdkssecretsad.com.git
+git branch -M main
+git push -u origin main
+
+
+
+
+
+$ sudo mkdir -p /var/www/ejemplo.com
+$ sudo chown -R www-data:www-data /var/www/ejemplo.com
+$ sudo chmod -R 775 /var/www/ejemplo.com
+
+$ curl -sS https://getcomposer.org/installer | php
+$ mv composer.phar /usr/local/bin/composer
+
+nano /etc/nginx/sites-available/ejemplo.com
+
+https://soyfelixbarros.wordpress.com/2016/12/19/crear-un-droplet-con-linux-nginx-mysql-y-php-en-ubuntu-16-04/
+
+
+
+
